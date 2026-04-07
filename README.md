@@ -23,7 +23,7 @@ GymTracker is a single-file web app that lets gym-goers report how busy their gy
 
 ---
 
-## What It Does (Plain English)
+## What It Does
 
 Imagine showing up to the gym and finding every squat rack taken and the cardio section packed. GymTracker helps you avoid that — or deal with it when it happens.
 
